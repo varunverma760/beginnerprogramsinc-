@@ -45,6 +45,9 @@ It is a sequence where the next term is the sum of previous two terms .The  firs
 **Area of a circle     // program 2**
 
 
+![image](https://www.cdn.geeksforgeeks.org/wp-content/uploads/Area-of-circle.png)
+
+
 
 Algorithm :-
 
