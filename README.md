@@ -42,7 +42,7 @@ It is a sequence where the next term is the sum of previous two terms .The  firs
 
 
 
-**Area of a circle **    // program 2
+**Area of a circle     // program 2**
 
 
 
