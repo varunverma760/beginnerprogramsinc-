@@ -71,3 +71,35 @@ Step 4 :- Area of a circle( area = 3.14 *radius *radius)
 
 Step 5  :- Print the area of circle
 
+
+
+
+
+# conversion integer into corresponding floating number :-
+
+
+//program 3
+
+**Algorithm **:-
+ 
+ 
+ 
+step 1 :- float number
+
+
+step 2 :- integer number
+
+
+step 3 :- print integer number
+
+
+
+step 4 :- scan integer number
+
+
+
+step 5 :- float number = integer number
+
+
+
+step 6 :-  print %d = %f
