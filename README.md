@@ -54,22 +54,34 @@ Algorithm :-
 
 
 
-Step 1 :- Float radius and double area
+
+Step 1 :- Start
 
 
 
-Step 2 :- Print radius
+
+
+Step 2 :- Float radius and double area
 
 
 
-Step 3 :- Scan radius
+
+Step 3 :- Print radius
 
 
 
-Step 4 :- Area of a circle( area = 3.14 *radius *radius)
+
+Step  4 :- Area of a circle( area = 3.14 *radius *radius)
 
 
-Step 5  :- Print the area of circle
+
+
+Step 5 :- Print the area of circle
+
+
+
+
+step 6 :- Exit
 
 
 
@@ -84,22 +96,54 @@ Step 5  :- Print the area of circle
  
  
  
-step 1 :- float number
-
-
-step 2 :- integer number
-
-
-step 3 :- print integer number
+step 1 :- Start
 
 
 
-step 4 :- scan integer number
+
+step 2 :- print integer number and float number 
 
 
 
-step 5 :- float number = integer number
+
+step 3  :- float number = integer number
 
 
 
-step 6 :-  print %d = %f
+
+step 4  :- exit
+
+
+
+
+
+# greatest number 
+**Algorithm**
+
+
+Step 1 :- Start
+
+
+
+step 2:- Print a, b and c
+
+
+step 3:- If a>b do
+         
+         
+   
+   if a>c
+         
+  print a is greater than b and c
+  
+  
+  else
+  b>a and b>c
+  
+  print b is greater than a and c
+  
+  
+  else 
+  print c is greater
+         
+         
