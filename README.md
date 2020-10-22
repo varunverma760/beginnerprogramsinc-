@@ -1,4 +1,4 @@
-# beginnerprogramsin_candc++-
+# beginner  or easy programs in c and c++-
 
 # Fibonnaci Series Program 
 
