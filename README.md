@@ -145,5 +145,9 @@ step 3:- If a>b do
   
   else 
   print c is greater
+  
+  
+  
+  step 4:- Exit
          
          
