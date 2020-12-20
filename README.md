@@ -151,3 +151,28 @@ step 3:- If a>b do
   step 4:- Exit
          
          
+**LINEAR SEARCH PROGRAM USING AN ARRAY**
+
+STEP 1 :- set i to 1
+
+
+STEP 2 :- if i>n then go to step 7
+
+
+STEP 3 :- if A[i] = x then goto step 6
+
+
+STEP 4 :- Set i to i+1 
+
+
+STEP 5 :- Go to Step 2
+
+
+
+STEP 6 :- Print element x found at index i and go to step 8
+
+
+STEP 7 :- Print element not found
+
+
+STEP 8 :- Exit
